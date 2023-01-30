@@ -8,16 +8,14 @@
 
 <ul style="display: inline-block">
   <li>🖥️ 5-year Software Engineer, Full-Stack Developer</li>
-  <li>️ UI/UX Designer & Engineer</li>
-  <li> 💠 CSS/Scss Purist, Maniac</li>
-  <li> 🎨 Creator, Photoshop Lover</li>
-  <li> 🎹 Self-taught Piano Learner</li>
-  <li> 🇯🇵 日本語 & 🇪🇸 Español Learner</li>
-  <li> 🦉 Master of Computer Science, Rice University</li>
-  <li> ☕️ Tea & Coffee Lover</li>
+  <li>️🧱 UI/UX Designer & Engineer</li>
+  <li>💠 CSS/Scss Purist, Maniac</li>
+  <li>🎨 Creator, Photoshop Lover</li>
+  <li>🎹 Self-taught Piano Learner</li>
+  <li>🇯🇵 日本語 & 🇪🇸 Español Learner</li>
+  <li>🦉 Master of Computer Science, Rice University</li>
+  <li>☕️ Tea & Coffee Lover</li>
 </ul>
-
-
 
 <p align="center">
   <img src="https://custom-icon-badges.demolab.com/badge/Repositories-31-purple?style=for-the-badge&logo=repo&logoColor=white" />
@@ -75,6 +73,14 @@
 <img src="https://custom-icon-badges.demolab.com/badge/npm-package-red.svg?logo=npm">
 <p>A collection of tiny cli tools.</p>
 <img style="border-radius: 12px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.5)" src="./img/rylans-node-tools.png" />
+</section>
+
+<section>
+<h3><a href="https://rylans-wordle.vercel.app/" target="_blank">Rylan's Wordle</a>
+</h3>
+<p>A wordle game fully responsive, in mobile-first design, supporting light/dark mode.</p>
+<img style="border-radius: 12px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.5)" height="400" src="./img/wordle.png" />
+<img style="border-radius: 12px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.5)" height="400" src="./img/wordle-light.png" />
 </section>
 
 <section>
