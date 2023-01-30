@@ -1,28 +1,34 @@
-<div style="text-align: center">
-<h1>Howdie 👋 This is Rylan Zhou 👨🏻‍💻</h1>
+<p align="center">
+   <h1>Howdie 👋 This is Rylan Zhou 👨🏻‍💻</h1>
+</p>
 
-<img style="margin: 0 auto" src="https://readme-typing-svg.demolab.com/?lines=5-year+Software+Engineer;Full-Stack+Developer;UI/UX+Designer,+Engineer;CSS/Scss+Purist+n'+Maniac;Always+in+Curiosity&center=true&font=Poppins" />
-
-</div>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com/?lines=5-year+Software+Engineer;Full-Stack+Developer;UI/UX+Designer,+Engineer;CSS/Scss+Purist+n'+Maniac;Always+in+Curiosity&center=true&font=Poppins" />
+</p>
 
 <ul style="display: inline-block">
-<li>🖥️ 5-year Software Engineer, Full-Stack Developer</li>
-<li>️ UI/UX Designer & Engineer</li>
-<li> 💠 CSS/Scss Purist, Maniac</li>
-<li> 🎨 Creator, Photoshop Lover</li>
-<li> 🎹 Self-taught Piano Learner</li>
-<li> 🇯🇵 日本語 & 🇪🇸 Español Learner</li>
-<li> 🦉 Master of Computer Science, Rice University</li>
-<li> ☕️ Tea & Coffee Lover</li>
+  <li>🖥️ 5-year Software Engineer, Full-Stack Developer</li>
+  <li>️ UI/UX Designer & Engineer</li>
+  <li> 💠 CSS/Scss Purist, Maniac</li>
+  <li> 🎨 Creator, Photoshop Lover</li>
+  <li> 🎹 Self-taught Piano Learner</li>
+  <li> 🇯🇵 日本語 & 🇪🇸 Español Learner</li>
+  <li> 🦉 Master of Computer Science, Rice University</li>
+  <li> ☕️ Tea & Coffee Lover</li>
 </ul>
 
-<img style="float: right; border-radius: 50%;" width="200" src="./img/logo-2023.png">
 
-<div style="text-align: center;">
 
-![repos](https://custom-icon-badges.demolab.com/badge/Repositories-31-purple?style=for-the-badge&logo=repo&logoColor=white) ![2022-contributions](https://custom-icon-badges.demolab.com/badge/Contributions/2022-358-green?style=for-the-badge&logo=commit&logoColor=white) [![linkedin](https://custom-icon-badges.demolab.com/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rylan-zhou/) [![mail](https://custom-icon-badges.demolab.com/badge/gmail-orange?style=for-the-badge&logo=gmail&logoColor=white)](rylanzhou28@gmail.com)
-
-</div>
+<p align="center">
+  <img src="https://custom-icon-badges.demolab.com/badge/Repositories-31-purple?style=for-the-badge&logo=repo&logoColor=white" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Contributions/2022-358-green?style=for-the-badge&logo=commit&logoColor=white" />
+  <a href="https://www.linkedin.com/in/rylan-zhou/" target="_blank">
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="rylanzhou28@gmail.com" target="_blank">
+    <img src="https://custom-icon-badges.demolab.com/badge/gmail-orange?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
