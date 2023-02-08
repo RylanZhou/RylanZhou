@@ -1,5 +1,5 @@
 <p align="center">
-   <h1>Howdie 👋 This is Rylan Zhou 👨🏻‍💻</h1>
+   <h1>Howdy 👋 This is Rylan Zhou 👨🏻‍💻</h1>
 </p>
 
 <p align="center">
