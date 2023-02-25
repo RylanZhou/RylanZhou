@@ -18,7 +18,7 @@
 </ul>
 
 <p align="center">
-  <img src="https://custom-icon-badges.demolab.com/badge/Repositories-31-purple?style=for-the-badge&logo=repo&logoColor=white" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Repositories-34-purple?style=for-the-badge&logo=repo&logoColor=white" />
   <img src="https://custom-icon-badges.demolab.com/badge/Contributions/2022-358-green?style=for-the-badge&logo=commit&logoColor=white" />
   <a href="https://www.linkedin.com/in/rylan-zhou/" target="_blank">
     <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -91,8 +91,8 @@
 
 ---
 
-<div style="text-align: center">
+<p align="center">
 <img src="https://readme-typing-svg.demolab.com/?lines=Stay+Curious,+Creative,+Courageous&color=F724A9&font=Poppins" />
-</div>
+</p>
 
 <img style="width: 100%" src="https://camo.githubusercontent.com/b867e04377eea646939445ce4e0565253428256abc39c6d32d7b67aab3160d18/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3130302673656374696f6e3d666f6f746572" theme=tokyonight/>
